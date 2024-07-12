@@ -1,0 +1,6 @@
+a="python is easy"
+b="easy"
+if(b in a):
+    print("Yes!")
+else:
+    print("no!")
